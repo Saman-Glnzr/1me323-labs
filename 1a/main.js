@@ -11,6 +11,7 @@ import * as MathUtils from './math.js';
 console.log("Using MathUtils - Addition: ", MathUtils.add(7, 2));
 console.log("Using MathUtils - PI: ", MathUtils.PI);
 console.log("Using MathUtils - Division: ", MathUtils.default(10, 2));
+//detta är en test kommentar
 
 
 
